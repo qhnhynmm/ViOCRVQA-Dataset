@@ -82,6 +82,6 @@ If you use ViOCRVQA dataset in your research, please cite our paper (preprint):
 
 ## Contact
 
-For any inquiries or feedback regarding the ViOCRVQA dataset, please contact  [215622163@gm.uit.edu.vn](mailto:215622163@gm.uit.edu.vn).
+For any inquiries or feedback regarding the ViOCRVQA dataset, please contact  [21522163@gm.uit.edu.vn](mailto:215622163@gm.uit.edu.vn).
 
 Thank you for your interest in ViOCRVQA! We hope this dataset contributes to the advancement of research in text-based Visual Question Answering around the world, especially in Vietnam.
