@@ -1,4 +1,4 @@
-ViOCRVQA: Vietnamese Text-based Visual Question Answering
+ViOCRVQA: Vietnamese Optical Character Recognition - Visual Question Answering
 =====
 
 ![examples](sample.png)
