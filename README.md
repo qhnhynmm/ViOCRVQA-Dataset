@@ -50,7 +50,7 @@ You can find it at the following link: [ViOCRVQA Dataset](link)
 
 If you use ViOCRVQA dataset in your research, please cite our paper (preprint):
 
-[ViOCRVQA: Vietnamese Text-based Visual Question Answering](link)
+[ViOCRVQA](link)
 
 ## Authors
 - Huy Quang Pham
@@ -69,7 +69,7 @@ If you use ViOCRVQA dataset in your research, please cite our paper (preprint):
 - BS Nghia Hieu Nguyen
   - Email: [nghiangh@uit.edu.vn](mailto:nghiangh@uit.edu.vn)
 
-- PhD Kiet Van Nguyen
+- MSc Kiet Van Nguyen
   - Email: [kietnv@uit.edu.vn](mailto:kietnv@uit.edu.vn)
 
 - Assoc. Prof Ngan Luu-Thuy Nguyen
