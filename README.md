@@ -50,7 +50,7 @@ You can find it at the following link: [ViOCRVQA Dataset](link)
 
 If you use ViOCRVQA dataset in your research, please cite our paper (preprint):
 
-[ViOCRVQA](link)
+[ViOCRVQA](https://arxiv.org/abs/2404.18397)
 
 ## Authors
 - Huy Quang Pham
