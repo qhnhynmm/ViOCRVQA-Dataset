@@ -81,7 +81,7 @@ If you use the ViOCRVQA dataset in your research, please cite our paper:
   - Email: [21521917@gm.uit.edu.vn](mailto:21521917@gm.uit.edu.vn)
 
 
-- BS Nghia Hieu Nguyen
+- Nghia Hieu Nguyen
   - Email: [nghiangh@uit.edu.vn](mailto:nghiangh@uit.edu.vn)
 
 - Kiet Van Nguyen
