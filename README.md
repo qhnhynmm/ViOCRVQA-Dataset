@@ -64,7 +64,7 @@ If you use the ViOCRVQA dataset in your research, please cite our paper:
   year      = {2025},
   publisher = {Springer}
 }
-
+```
 
 
 ## Authors
