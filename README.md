@@ -42,9 +42,9 @@ Researchers and developers can use ViOCRVQA to train and evaluate their VQA mode
 
 ## Availability
 
-The ViOCRVQA dataset will be available for download after our article is accepted.
+## Availability  
 
-You can find it at the following link: [ViOCRVQA Dataset](link)
+You can access it here: [ViOCRVQA Dataset](https://huggingface.co/datasets/huyhuy123/ViOCRVQA).
 
 ## Citation
 
