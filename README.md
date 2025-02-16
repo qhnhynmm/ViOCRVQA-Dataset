@@ -84,10 +84,10 @@ If you use the ViOCRVQA dataset in your research, please cite our paper:
 - BS Nghia Hieu Nguyen
   - Email: [nghiangh@uit.edu.vn](mailto:nghiangh@uit.edu.vn)
 
-- PhD Kiet Van Nguyen
+- Kiet Van Nguyen
   - Email: [kietnv@uit.edu.vn](mailto:kietnv@uit.edu.vn)
 
-- Assoc. Prof Ngan Luu-Thuy Nguyen
+- Ngan Luu-Thuy Nguyen
   - Email: [ngannlt@uit.edu.vn](mailto:ngannlt@uit.edu.vn)
 
 ### Affiliations
@@ -97,6 +97,6 @@ If you use the ViOCRVQA dataset in your research, please cite our paper:
 
 ## Contact
 
-For any inquiries or feedback regarding the ViOCRVQA dataset, please contact  [21522163@gm.uit.edu.vn](mailto:215622163@gm.uit.edu.vn).
+For any inquiries or feedback regarding the ViOCRVQA dataset, please contact  [kietnv@uit.edu.vn](mailto:kietnv@uit.edu.vn).
 
 Thank you for your interest in ViOCRVQA! We hope this dataset contributes to the advancement of research in text-based Visual Question Answering around the world, especially in Vietnam.
