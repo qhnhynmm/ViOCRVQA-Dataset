@@ -48,9 +48,21 @@ You can find it at the following link: [ViOCRVQA Dataset](link)
 
 ## Citation
 
-If you use ViOCRVQA dataset in your research, please cite our paper (preprint):
+If you use ViOCRVQA dataset in your research, please cite our paper:
 
-[ViOCRVQA](https://arxiv.org/abs/2404.18397)
+@article{Pham2025,
+  author    = {Pham, Huy Quang and Nguyen, Thang Kien-Bao and Van Nguyen, Quan and Tran, Dan Quang and Nguyen, Nghia Hieu and Van Nguyen, Kiet and Nguyen, Ngan Luu-Thuy},
+  title     = {ViOCRVQA: novel benchmark dataset and VisionReader for visual question answering by understanding Vietnamese text in images},
+  journal   = {Multimedia Systems},
+  year      = {2025},
+  volume    = {31},
+  number    = {2},
+  pages     = {106},
+  date      = {2025-02-12},
+  issn      = {1432-1882},
+  doi       = {10.1007/s00530-025-01696-7},
+  url       = {https://doi.org/10.1007/s00530-025-01696-7}
+}
 
 ## Authors
 - Huy Quang Pham
