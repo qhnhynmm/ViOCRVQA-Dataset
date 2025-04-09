@@ -47,10 +47,6 @@ Researchers and developers can use ViOCRVQA to train and evaluate their VQA mode
 You can access it here: [ViOCRVQA Dataset](https://huggingface.co/datasets/huyhuy123/ViOCRVQA).
 
 ## Citation
-
-If you use ViOCRVQA dataset in your research, please cite our paper:
-
-## Citation
 If you use the ViOCRVQA dataset in your research, please cite our paper:
 
 ```bibtex
